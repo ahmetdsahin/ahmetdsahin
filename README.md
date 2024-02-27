@@ -8,7 +8,7 @@ I am a senior at Yeditepe University and my major is Management Information Syst
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [sahinahmetdursun@gmail.com](mailto:sahinahmetdursun@gmail.com)
-* 🧠  I'm learning ReactJs - MongoDB - PHP
+* 🧠  I'm learning ReactJs -NodeJs  - MongoDB - PHP
 
 ### Skills
 
