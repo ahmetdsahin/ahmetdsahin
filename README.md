@@ -8,7 +8,7 @@ I am a senior at Yeditepe University and my major is Management Information Syst
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [sahinahmetdursun@gmail.com](mailto:sahinahmetdursun@gmail.com)
-* 🧠  I'm learning ReactJs -NodeJs  - MongoDB - PHP
+* 🧠  I'm learning ReactJs - MongoDB - PHP
 
 ### Skills
 
@@ -24,6 +24,4 @@ I am a senior at Yeditepe University and my major is Management Information Syst
 
 ### Badges
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/ahmetdsahin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetdsahin&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
