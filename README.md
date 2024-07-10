@@ -7,9 +7,8 @@ Web Developer
 I am a senior at Yeditepe University and my major is Management Information System. I share my experiences and projects with you.
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [sahinahmetdursun@gmail.com](mailto:sahinahmetdursun@gmail.com)
-* 🧠  I'm learning ReactJs - MongoDB - PHP
-* 👨🏻‍💻  I'm currently working on: Gezikolik-Website (MERN stack project)
+* ✉️  You can contact me at [sahinahmetdursun@proton.me](mailto:sahinahmetdursun@proton.me)
+
 
 ### Skills
 
