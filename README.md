@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a senior at Yeditepe University and my major is Management Information System. I share my experiences and projects with you.
+I graduated from Yeditepe University Management Information Systems department and I share my projects and experiences with you to progress in the field of Web Development.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [sahinahmetdursun@proton.me](mailto:sahinahmetdursun@proton.me)
