@@ -7,7 +7,7 @@ Web Developer
 I graduated from Yeditepe University Management Information Systems department and I share my projects and experiences with you to progress in the field of Web Development.
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [sahinahmetdursun@proton.me](mailto:sahinahmetdursun@proton.me)
+* ✉️  You can contact me at [sahinahmetdursun@gmail.com](mailto:sahinahmetdursun@gmail.com)
 
 
 ### Skills
