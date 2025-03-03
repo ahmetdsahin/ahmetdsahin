@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmet Şahin
 ===================================================================================================================================
 
-Web Developer
+Front-end Developer
 -------------
 
 I graduated from Yeditepe University Management Information Systems department and I share my projects and experiences with you to progress in the field of Web Development.
